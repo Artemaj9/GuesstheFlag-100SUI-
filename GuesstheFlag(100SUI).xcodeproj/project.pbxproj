@@ -11,6 +11,7 @@
 		AC961FDB2A670AA400BD6760 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC961FDA2A670AA400BD6760 /* ContentView.swift */; };
 		AC961FDD2A670AA600BD6760 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC961FDC2A670AA600BD6760 /* Assets.xcassets */; };
 		AC961FE02A670AA600BD6760 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC961FDF2A670AA600BD6760 /* Preview Assets.xcassets */; };
+		AC961FE72A6721CC00BD6760 /* Project2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC961FE62A6721CC00BD6760 /* Project2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		AC961FDA2A670AA400BD6760 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		AC961FDC2A670AA600BD6760 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AC961FDF2A670AA600BD6760 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		AC961FE62A6721CC00BD6760 /* Project2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				AC961FD82A670AA400BD6760 /* GuesstheFlag_100SUI_App.swift */,
 				AC961FDA2A670AA400BD6760 /* ContentView.swift */,
+				AC961FE62A6721CC00BD6760 /* Project2.swift */,
 				AC961FDC2A670AA600BD6760 /* Assets.xcassets */,
 				AC961FDE2A670AA600BD6760 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AC961FE72A6721CC00BD6760 /* Project2.swift in Sources */,
 				AC961FDB2A670AA400BD6760 /* ContentView.swift in Sources */,
 				AC961FD92A670AA400BD6760 /* GuesstheFlag_100SUI_App.swift in Sources */,
 			);
